@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoiDscAndroid</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="animation">Animation</string>
+    <string name="comedy">Comedy</string>
+    <string name="adventure">Adventure</string>
+    <string name="artic_justice_2019">Artic Justice(2019)</string>
+</resources>
